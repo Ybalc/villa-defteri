@@ -1,0 +1,6 @@
+{
+  "appId": "com.villadefteri.app",
+  "appName": "Villa Defteri",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
